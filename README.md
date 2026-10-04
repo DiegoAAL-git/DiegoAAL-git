@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy [Tu nombre] 👋
 
-<!--
-**DiegoAAL-git/DiegoAAL-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas apasionado por Java y el software de código abierto.
 
-Here are some ideas to get you started:
+## 🙋 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudio Ingeniería en Sistemas en [tu universidad]
+- 🤝 Actualmente contribuyo a proyectos de código abierto
+- 🌱 Aprendiendo [Spring Boot / testing / Docker / lo que estés aprendiendo]
+- 📍 Guatemala 🇬🇹
+
+## 🛠️ Tecnologías
+
+![Java](https://skillicons.dev/icons?i=java,git,github,linux)
+
+## 🌍 Contribuciones a código abierto
+
+| Proyecto | Qué hice | Enlace |
+|----------|----------|--------|
+| [Nombre del proyecto] | [Corregí un bug en... / Agregué la función...] | [PR #123](https://github.com/...) |
+| [Nombre del proyecto] | [Mejoré la documentación de...] | [PR #456](https://github.com/...) |
+
+## 📊 Estadísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+
+## 📫 Contacto
+
+- LinkedIn: [tu enlace]
+- Correo: [tu correo]
