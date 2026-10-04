@@ -22,9 +22,9 @@ Estudiante de Ingeniería en Sistemas apasionado por Java y el software de códi
 
 ## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=DiegoAAL-git&show_icons=true&theme=default)
 
 ## 📫 Contacto
 
-- LinkedIn: [tu enlace]
-- Correo: [tu correo]
+- LinkedIn: https://www.linkedin.com/in/diego-linares-959639211
+- Correo: diegolinares1245@gmail.com
