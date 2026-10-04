@@ -1,30 +1,31 @@
-# Hola, soy [Tu nombre] 👋
+### Hi. I'm Diego. 
+#### Software Development Engineer in Test (SDET) & Systems Engineer
 
-Estudiante de Ingeniería en Sistemas apasionado por Java y el software de código abierto.
+I build testing infrastructure and ensure the resilience of distributed systems and mission-critical applications. My focus is centered on rigorous automation, clean code design in Java, and continuous integration to guarantee that software not only functions, but withstands the friction of real-world environments.
 
-## 🙋 Sobre mí
+---
 
-- 🎓 Estudio Ingeniería en Sistemas en [tu universidad]
-- 🤝 Actualmente contribuyo a proyectos de código abierto
-- 🌱 Aprendiendo [Spring Boot / testing / Docker / lo que estés aprendiendo]
-- 📍 Guatemala 🇬🇹
+### 🛠️ Tech Stack & Architecture
 
-## 🛠️ Tecnologías
+* **Languages:** Java (Enterprise / Core), SQL.
+* **Testing & Automation:** Integration testing, large-scale unit testing, JUnit, distributed component validation.
+* **Environment & Tools:** Linux (WSL), Git, GitHub Actions, Maven, IntelliJ IDEA Ultimate.
+* **Engineering Focus:** TDD (Test-Driven Development), observability, failure traceability, and quality automation (QA Automation).
 
-![Java](https://skillicons.dev/icons?i=java,git,github,linux)
+---
 
-## 🌍 Contribuciones a código abierto
+### 💻 Current Focus
 
-| Proyecto | Qué hice | Enlace |
-|----------|----------|--------|
-| [Nombre del proyecto] | [Corregí un bug en... / Agregué la función...] | [PR #123](https://github.com/...) |
-| [Nombre del proyecto] | [Mejoré la documentación de...] | [PR #456](https://github.com/...) |
+* **Open Source Contributions:** Active participation in the architecture and testing of complex distributed systems (such as *Elasticsearch*), focusing on solving integration problems and code robustness.
+* **Quality Engineering:** Designing automated test flows to eliminate friction between development and production, ensuring high standards of performance and stability.
 
-## 📊 Estadísticas
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DiegoAAL-git&show_icons=true&theme=default)
+### 📊 Activity Stats
 
-## 📫 Contacto
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" alt="GitHub Stats" />
+</p>
 
 - LinkedIn: https://www.linkedin.com/in/diego-linares-959639211
 - Correo: diegolinares1245@gmail.com
