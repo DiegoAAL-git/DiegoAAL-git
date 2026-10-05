@@ -18,12 +18,6 @@
 
 ![Java](https://skillicons.dev/icons?i=java,docker,git,github,linux)
 
-## Open Source & Core Contributions
-
-| Project | Impact / Contribution | PR Link |
-| :--- | :--- | :--- |
-| **[Elasticsearch](https://github.com/elastic/elasticsearch)** | *Implemented integration test validations and enhanced component error handling.* | [PR #--](https://github.com/...) |
-| **[Open Source / Tooling]** | *Optimized test execution workflows and refactored core validation modules.* | [PR #--](https://github.com/...) |
 
 ## GitHub Metrics
 
