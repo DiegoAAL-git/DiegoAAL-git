@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Diego </h1>
-<h3 align="center">Software Development Engineer in Test (SDET) & Systems Engineer</h3>
+<h3 align="center">Software Development </h3>
 
 <p align="center">
   <em>Engineering resilience, distributed systems test automation, and mission-critical software reliability.</em>
